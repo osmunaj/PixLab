@@ -3,3 +3,11 @@ Activity 1
 2. 3 Bytes to represent 1 color
 3. 307,200 pixels
 
+Activity 2
+1. rgb(214, 103, 187)
+2. rgb(207, 214, 103)
+3. rgb(145, 55, 144)
+4. rgb(255, 255, 255)
+5. rgb(61, 61, 61)
+
+
