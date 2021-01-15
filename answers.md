@@ -10,4 +10,11 @@ Activity 2
 4. rgb(255, 255, 255)
 5. rgb(61, 61, 61)
 
-
+Activity 3
+1. 0
+2. 0
+3. 640
+4. 480
+5. Top to bottom
+6. Left to Right
+7. Yes, you can see the colors of the squares
