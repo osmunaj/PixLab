@@ -13,8 +13,20 @@ Activity 2
 Activity 3
 1. 0
 2. 0
-3. 640
-4. 480
+3. 639
+4. 479
 5. Top to bottom
 6. Left to Right
-7. Yes, you can see the colors of the squares
+7. Yes, you can see the colors of the squares by zooming in
+
+Activity 4
+
+
+Activity 5
+1. No, it is inherited from SimplePicture
+2. Yes, simple picture is part of DigitalPicture
+3. No because digitalPicture is an interface
+4. Yes, simple picture is a kind of DigitalPicture
+5. Yes, Picture is a kind of DigitalPicture
+6. yes, picture is a type of SimplePicture
+7. No, simplePicture is not a type of Picture
