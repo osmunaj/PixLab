@@ -6,7 +6,7 @@ public class Activity5 {
     }
 
     public void keepOnlyBlue(){
-        Pixel[][] pixels = this.getPixels2D();
+        Pixel[][] pixels;
         Pixel pixel = null;
         for (int row = 0; row < pixels.length; row++){
             for (int col = 0; col < pixels[0].length; col++){
@@ -15,11 +15,10 @@ public class Activity5 {
                 pixel.setGreen(0);
             }
         }
-    
     }
 
     public void negate(){
-        Pixel[][] pixels = this.getPixels2D();
+        Pixel[][] pixels;
         Pixel pixel = null;
         for (int row = 0; row < pixels.length; row++){
             for (int col = 0; col < pixels[0].length; col++){
